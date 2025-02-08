@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mapilocator.app-mergeReleaseResources-55:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/i2pify/.gradle/caches/transforms-3/b15757362cf3c1aac4942df79b9a98be/transformed/jetified-ucrop-2.2.6-native/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    }
+                }
+            ]
+        }
+    ]
+}

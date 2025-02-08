@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1070779167327-8trte3m356vs275mhbkl9tqlcdtiim7r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mapilocations-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1070779167327</string>
+    <string name="google_api_key" translatable="false">AIzaSyAyvE_mLR_PEBCmlOs4Se-g1NLahX1htLE</string>
+    <string name="google_app_id" translatable="false">1:1070779167327:android:9df1f76b30ad9f048261ea</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAyvE_mLR_PEBCmlOs4Se-g1NLahX1htLE</string>
+    <string name="google_storage_bucket" translatable="false">mapilocations.appspot.com</string>
+    <string name="project_id" translatable="false">mapilocations</string>
+</resources>

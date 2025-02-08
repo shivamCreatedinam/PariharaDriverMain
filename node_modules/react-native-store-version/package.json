@@ -1,0 +1,76 @@
+{
+  "name": "react-native-store-version",
+  "version": "1.4.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:watanabeyu/react-native-store-version.git"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "appstore",
+    "playstore",
+    "version"
+  ],
+  "author": "Yu Watanabe <fight.ippatu5648@gmail.com> (https://github.com/watanabeyu)",
+  "bugs": {
+    "url": "https://github.com/watanabeyu/react-native-store-version/issues"
+  },
+  "homepage": "https://github.com/watanabeyu/react-native-store-version",
+  "dependencies": {
+    "compare-versions": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "@types/react-native": "^0.69.5",
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
+    "babel-jest": "^28.1.3",
+    "eslint": "^8.21.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "jest": "^28.1.3",
+    "metro-react-native-babel-preset": "^0.72.0",
+    "node-fetch": "^3.2.10",
+    "prettier": "^2.7.1",
+    "react-native": "^0.69.3",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleNameMapper": {
+      "^app(.*)$": "<rootDir>/$1"
+    },
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js"
+    ],
+    "transform": {
+      "^.+\\.(ts|tsx)$": "ts-jest"
+    },
+    "globals": {
+      "ts-jest": {
+        "tsconfig": "tsconfig.json",
+        "diagnostics": false
+      }
+    },
+    "testMatch": [
+      "**/__tests__/**/*.test.(ts|tsx|js)",
+      "**/src/**/*.test.(ts|tsx|js)"
+    ],
+    "testPathIgnorePatterns": [
+      "node_modules",
+      "dist"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070779167327",
+    "firebase_url": "https://mapilocations-default-rtdb.firebaseio.com",
+    "project_id": "mapilocations",
+    "storage_bucket": "mapilocations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070779167327:android:9df1f76b30ad9f048261ea",
+        "android_client_info": {
+          "package_name": "com.mapilocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070779167327-uo1rf5tqpqku53tl4vhpjeeb9c353fhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapilocator",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1070779167327-8trte3m356vs275mhbkl9tqlcdtiim7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvE_mLR_PEBCmlOs4Se-g1NLahX1htLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070779167327-8trte3m356vs275mhbkl9tqlcdtiim7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

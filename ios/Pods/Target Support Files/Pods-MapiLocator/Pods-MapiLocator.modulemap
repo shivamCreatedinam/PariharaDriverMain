@@ -1,0 +1,6 @@
+module Pods_MapiLocator {
+  umbrella header "Pods-MapiLocator-umbrella.h"
+
+  export *
+  module * { export * }
+}

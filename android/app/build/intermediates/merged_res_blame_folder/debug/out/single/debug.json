@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable_ic_launcher_round.png.flat",
+        "source": "com.mapilocator.app-main-59:/drawable/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.mapilocator.app-main-59:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mapilocator.app-main-59:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable_ic_stat_directions.png.flat",
+        "source": "com.mapilocator.app-main-59:/drawable/ic_stat_directions.png"
+    }
+]

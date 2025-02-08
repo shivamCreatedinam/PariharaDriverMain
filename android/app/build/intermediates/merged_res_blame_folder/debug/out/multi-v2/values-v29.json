@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mapilocator.app-mergeDebugResources-55:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/Users/i2pify/Documents/PariharaApp/PariharaDriver/android/app/src/main/res/values-v29/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "291"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "256"
+                    }
+                }
+            ]
+        }
+    ]
+}

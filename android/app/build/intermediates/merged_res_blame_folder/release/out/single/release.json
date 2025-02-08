@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_search_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_search_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_setting.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_setting.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_bell_notification.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_bell_notification.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_shoppingbag.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_shoppingbag.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_bell_icon_cart.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_bell_icon_cart.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_order_history.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_order_history.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_background_images.gif.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_background_images.gif"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_reached_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_reached_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_bills.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_bills.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_cross.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_cross.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_profile_man.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_profile_man.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_routes.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_routes.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_support.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_support.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_time_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_time_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_no_data.jpeg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_no_data.jpeg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_pointer_picker.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_pointer_picker.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_wishlist.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_wishlist.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_under_review.jpeg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_under_review.jpeg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_language.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_language.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_super_market_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_super_market_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_payment_method.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_payment_method.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_activity_history.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_activity_history.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable_ic_stat_directions.png.flat",
+        "source": "com.mapilocator.app-main-58:/drawable/ic_stat_directions.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_auto_home_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_auto_home_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_camera.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_camera.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_map_pointer.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_map_pointer.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_comming_soon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_comming_soon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mapilocator.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_plus.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_plus.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_map_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_map_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_autorickshaw.jpeg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_autorickshaw.jpeg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_left_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_left_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_weather_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_weather_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_approved.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_approved.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_cars_uberxl.jpeg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_cars_uberxl.jpeg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_previous.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_previous.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_profile_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_profile_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_stopwatch.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_stopwatch.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_driver_profile.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_driver_profile.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_food_processing.gif.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_food_processing.gif"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_car.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_car.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_greenindicator.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_greenindicator.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_restaurant_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_restaurant_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_icons_eye.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_icons_eye.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_next.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_next.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_user_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_user_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_oval.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_oval.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_minus.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_minus.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_trip.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_trip.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_wishlist_no.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_wishlist_no.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_icons_refresh.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_icons_refresh.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.mapilocator.app-main-58:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_verified.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_verified.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_data_auto_rickshaw.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_data_auto_rickshaw.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_updateimage.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_updateimage.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_hotel_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_hotel_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_passenger.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_passenger.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_circle_green.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_circle_green.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_close_app.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_close_app.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_driver_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_driver_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_power_off.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_power_off.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_greenmarker.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_greenmarker.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_ic_launcher_round.jpg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_ic_launcher_round.jpg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_promocode.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_promocode.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_check_mark.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_check_mark.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_end_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_end_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_cars_comfort.jpeg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_cars_comfort.jpeg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_wallet_info.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_wallet_info.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_info_circle_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_info_circle_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_background_maps.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_background_maps.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_auto_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_auto_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_search_driver.gif.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_search_driver.gif"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_how_to_fix_no_locationfound.jpeg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_how_to_fix_no_locationfound.jpeg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_cars_uberx.jpeg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_cars_uberx.jpeg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_badge.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_badge.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_background.jpeg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_background.jpeg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_pin_start.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_pin_start.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_history.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_history.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_gender_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_gender_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_loader_driver.gif.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_loader_driver.gif"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_logo_main.gif.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_logo_main.gif"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_user_profile_bg.jpg.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_user_profile_bg.jpg"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_see_more.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_see_more.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_navigation_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_navigation_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-xxhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-xhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_wallet_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_wallet_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_red_cross.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_red_cross.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_call.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_call.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_home_shield.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_home_shield.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_search_result_not_found.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_search_result_not_found.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_privacy.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_privacy.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable_ic_launcher_round.png.flat",
+        "source": "com.mapilocator.app-main-58:/drawable/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_food_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_food_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_cancel_icon.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_cancel_icon.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_src_assets_cancel.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/src_assets_cancel.png"
+    },
+    {
+        "merged": "com.mapilocator.app-merged_res-57:/drawable-mdpi_node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.mapilocator.app-react-52:/drawable-mdpi/node_modules_reactnativeelements_node_modules_reactnativeratings_dist_images_bell.png"
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "baseUrl" : "https://nk.vizcns.co/CMSWSIPL/ws/",
+    "imageBaseUrl" : "https://iplfarmersamvad.com/files/",
+    "firebaseUrl" : "https://mapilocations-default-rtdb.firebaseio.com/",
+    "appID": "mapilocations"
+}
