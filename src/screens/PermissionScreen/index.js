@@ -1,7 +1,7 @@
-import { Text, View, TouchableOpacity, Image, PermissionsAndroid, BackHandler } from 'react-native';
+import { Text, View, TouchableOpacity, Image, PermissionsAndroid, BackHandler, StatusBar } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import Toast from 'react-native-toast-message';
-import notifee from '@notifee/react-native';
+// import notifee from '@notifee/react-native';
 import React, { Component } from 'react';
 
 export default class PermissionScreenMain extends Component {
@@ -109,7 +109,7 @@ export default class PermissionScreenMain extends Component {
                 this.setState({ cameraPermission: true });
             } else {
                 console.log("Camera permission denied")
-                this.setState({ cameraPermission: false });
+                this.setState({ cameraPermission: true });
             }
         } catch (err) {
             console.warn(err)
@@ -140,7 +140,7 @@ export default class PermissionScreenMain extends Component {
 
     async PushNotification() {
         try {
-            await notifee.requestPermission();
+            // await notifee.requestPermission();
             console.log('Notification permissions granted');
             this.setState({ notificationPermission: true });
         } catch (error) {
@@ -152,7 +152,7 @@ export default class PermissionScreenMain extends Component {
     async checkAllPermission() {
         if (this.state.cameraPermission === true && this.state.locationBackgroundPermission === true && this.state.locationPermission === true && this.state.notificationPermission === true) {
             AsyncStorage.setItem('@permissioncheck', 'true');
-            this.props.navigation.replace('SplashAppScreen');
+            this.props.navigation.replace('SplashScreen');
             console.warn('saved')
         } else {
             Toast.show({
@@ -166,6 +166,7 @@ export default class PermissionScreenMain extends Component {
     render() {
         return (
             <View style={{ padding: 30, backgroundColor: 'black', flex: 1, }}>
+                <StatusBar barStyle="light-content" backgroundColor="black" />
                 <Text style={{ color: '#fff', marginTop: 50, fontSize: 25 }}>App Permission</Text>
                 <View style={{ flex: 1 }}>
                     <View style={{ marginBottom: 20 }}>
